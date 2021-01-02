@@ -9,6 +9,7 @@ elif a < 5:
     b = a + (c + d)
 else:
     b = a + c - d 
+    print('prova')
 
 print('a: {}' .format(a))
 print('b: {}' .format(b))
