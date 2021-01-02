@@ -11,8 +11,7 @@ else:
     b = a + c - d 
     print('prova')
 
+q = b
 print('a: {}' .format(a))
 print('b: {}' .format(b))
-print('c: {}' .format(c))
-print('d: {}' .format(d))
 print('Sono del secondo branch')
